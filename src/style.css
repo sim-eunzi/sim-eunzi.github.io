@@ -119,8 +119,8 @@ h6 {
 }
 
 h1 {
-  font-weight: var(--fontWeight-black);
-  font-size: var(--fontSize-6);
+  font-weight: var(--fontWeight-bold);
+  font-size: var(--fontSize-4);
   color: var(--color-heading-black);
 }
 
@@ -300,6 +300,7 @@ a:focus {
 .bio {
   display: flex;
   margin-bottom: var(--spacing-16);
+  background-image: url('./images/background.png');
 }
 
 .bio p {
