@@ -198,7 +198,7 @@ li > ul {
 }
 
 code[class*="language-"] {
-  font-size: var(--fontSize-0) !important;
+  font-size: 12px !important;
 }
 
 blockquote {
