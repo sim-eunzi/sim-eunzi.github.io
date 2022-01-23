@@ -26,7 +26,7 @@ const BlogIndex = ({ data, location }) => {
       <Seo title="All posts" />
       <div className="blog-image">
         <p className="main">
-          📚 공부하고 삽질한 내용을 정리한 기술 블로그 📚
+          📚 허접 기술 블로그 📚
         </p>
         
       </div>
